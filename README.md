@@ -18,3 +18,34 @@ A simple notes application built with Jetpack Compose, allowing users to create,
 - Android Studio
 - Kotlin
 - Jetpack Compose
+
+### 📦 Dependencies
+
+- Jetpack Compose
+- ViewModel
+- LiveData
+- Room Database
+
+## 🛠️ Usage
+
+- To add a new note, click on the Floating Action Button. 🆕
+- Fill in the title, description, and choose a color. 🌈
+- To delete a note, swipe it to the left or right. 🚮
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request. 🛠️
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 👨‍💻 Author
+
+Mahmoud Tarek
+
+## 📧 Contact
+
+Feel free to reach out for any questions or suggestions:
+
+Email: [mahmoudelgamel2003@gmail.com]
