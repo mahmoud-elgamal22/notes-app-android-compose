@@ -32,13 +32,6 @@ A simple notes application built with Jetpack Compose, allowing users to create,
 - Fill in the title, description, and choose a color. 🌈
 - To delete a note, swipe it to the left or right. 🚮
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request. 🛠️
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
